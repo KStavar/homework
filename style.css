@@ -2,3 +2,20 @@ body{
     background-color: lightblue;
     font-size: large;
 }
+
+p {
+    font-style:oblique;
+}
+
+h1{
+    color: seagreen;
+}
+
+h2{
+    color:blue;
+}
+
+.list{
+    color:brown;
+    font: bolder;
+}
