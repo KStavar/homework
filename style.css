@@ -1,21 +1,32 @@
 body{
-    background-color: lightblue;
+    background-color: rgb(206, 239, 250);
     font-size: large;
 }
 
 p {
+    text-align: center;
     font-style:oblique;
 }
 
 h1{
+    text-align: center;
     color: seagreen;
 }
 
 h2{
+    text-align: center;
     color:blue;
 }
 
 .list{
     color:brown;
     font: bolder;
+    margin-right: 20 px;
 }
+
+#song {
+    color:darkred;
+
+
+}
+
