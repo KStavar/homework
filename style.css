@@ -12,9 +12,10 @@ p {
 }
 
 p.special-lorem{ 
-    background-image: url(img/main-bora-bora-cruises.jpg);
+    background-image: url(img/b0ee6c21e120ff80e0a4cb36d14f1488.jpg);
+    background-repeat: repeat-x;
     font-weight: 700 ;
-   
+    color:rgb(157, 209, 209);
 }
 
 h1{
