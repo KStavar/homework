@@ -1,32 +1,47 @@
+/* this is a style for body*/
 body{
-    background-color: rgb(206, 239, 250);
+    background-color: rgb(204, 198, 245);
     font-size: large;
 }
-
+/* this is a style for paragraphs*/
 p {
     text-align: center;
     font-style:oblique;
+
+    
+}
+
+p.special-lorem{ 
+    background-image: url(img/main-bora-bora-cruises.jpg);
+    font-weight: 700 ;
+   
 }
 
 h1{
     text-align: center;
-    color: seagreen;
+    color: rgb(83, 46, 139);
 }
 
 h2{
     text-align: center;
-    color:blue;
+    color:rgb(147, 47, 147);
+  
 }
 
 .list{
     color:brown;
     font: bolder;
-    margin-right: 20 px;
+
 }
 
 #song {
     color:darkred;
 
+
+}
+
+#p.unique{
+    color: navy;
 
 }
 
